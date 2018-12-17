@@ -1,0 +1,2 @@
+# alapelemek
+Első repo
